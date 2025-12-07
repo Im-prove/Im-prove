@@ -7,7 +7,7 @@
   
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7DCFFF&vCenter=true&width=600&height=100&lines=Im-prove+Yourself+⚡;Bridging+Atoms+%26+Bits+⚛️;Architecting+Intelligence+🧠;Continuous+Evolution+📈&repeat=true&center=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7DCFFF&vCenter=true&width=600&height=100&lines=Im-prove+Yourself+%E2%9A%A1;Bridging+Atoms+%26+Bits+%E2%9A%9B%EF%B8%8F;Architecting+Intelligence+%F0%9F%A7%A0;Continuous+Evolution+%F0%9F%93%88&repeat=true&center=true" alt="Typing SVG" />
   </a>
 
   <!-- Wave Header -->
@@ -37,8 +37,6 @@ As a **Polymath Developer**, I don't just write code; I build **complete ecosyst
 
 --- 
 
-
-
 ### 📊 Developer Metrics & "Flex" Zone
 
 <div align="center">
@@ -50,19 +48,13 @@ As a **Polymath Developer**, I don't just write code; I build **complete ecosyst
   
   <br><br>
 
-  <!-- Stats & Streak - PUBLIC VERSION (public repos only) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Im-prove&theme=tokyonight" alt="Stats" />
+  <!-- Stats & Streak -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Im-prove&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
   
-  <br>
+  <br><br>
   
   <img src="https://streak-stats.demolab.com/?user=Im-prove&theme=tokyonight&ring=7DCFFF&fire=BB9AF7&currStreakLabel=7DCFFF" height="150" alt="Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Im-prove&theme=tokyonight" height="150" alt="Stats Summary" />
-
-  <br>
-
-  <!-- Top Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Im-prove&theme=tokyonight" height="150" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Im-prove&theme=tokyonight" height="150" alt="Repos Per Language" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Im-prove&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true" height="150" alt="Stats Summary" />
 
 </div>
 
@@ -99,53 +91,16 @@ As a **Polymath Developer**, I don't just write code; I build **complete ecosyst
 
 ---
 
-### 📊 System Analysis & Performance Metrics
+### 📈 Language Stats
 
 <div align="center">
-
-*Visualizing the architecture and efficiency of deployed systems.*
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'darkMode': true }}}%%
-classDiagram
-    class Hardware_Layer {
-        +Sensors (LiDAR/Camera)
-        +Actuators (Motors/Arm)
-        +Microcontroller (ESP32/Arduino)
-    }
-    class Compute_Layer {
-        +Main_PC (ROS 2 Node)
-        +AI_Model (YOLO/SLAM)
-        +Decision_Logic (Path Planning)
-    }
-    class Cloud_Interface {
-        +User_Dashboard (Web/App)
-        +Database (Logs/Metrics)
-        +Remote_Control
-    }
-    Hardware_Layer --|> Compute_Layer : Raw Data Stream 🔌
-    Compute_Layer --|> Hardware_Layer : Control Signals ⚡
-    Compute_Layer ..> Cloud_Interface : Telemetry 📡
-```
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'darkMode': true }}}%%
-gantt
-    title Project Timeline & Milestones
-    dateFormat  YYYY-MM-DD
-    section Robotics
-    R2 (Robocon)        :done,    des1, 2023-01-01, 2023-06-01
-    Logistics Cobot     :active,  des2, 2024-01-01, 2024-05-01
-    section AI & IoT
-    Aqua Sense (SIH)    :done,    des3, 2023-08-01, 2023-10-01
-    Im-prove (GenAI)    :active,  des4, 2024-06-01, 2024-12-01
-```
-
+  <!-- Top Languages - Showing ALL languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-prove&layout=compact&theme=tokyonight&langs_count=12&hide_border=true" height="180" alt="Most Used Languages" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-prove&layout=donut&theme=tokyonight&langs_count=8" height="180" alt="Language Distribution" />
 </div>
 
 ---
-
-
 
 ### 🐍 Contribution Graph
 

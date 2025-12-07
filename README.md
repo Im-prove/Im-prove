@@ -7,7 +7,7 @@
   
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7DCFFF&vCenter=true&width=600&height=100&lines=Im-prove+Yourself+%E2%9A%A1;Bridging+Atoms+%26+Bits+%E2%9A%9B%EF%B8%8F;Architecting+Intelligence+%F0%9F%A7%A0;Continuous+Evolution+%F0%9F%93%88&repeat=true&center=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7DCFFF&vCenter=true&width=600&height=100&lines=Im-prove+Yourself+⚡;Bridging+Atoms+%26+Bits+⚛️;Architecting+Intelligence+🧠;Continuous+Evolution+📈&repeat=true&center=true" alt="Typing SVG" />
   </a>
 
   <!-- Wave Header -->
@@ -37,6 +37,8 @@ As a **Polymath Developer**, I don't just write code; I build **complete ecosyst
 
 --- 
 
+
+
 ### 📊 Developer Metrics & "Flex" Zone
 
 <div align="center">
@@ -48,13 +50,19 @@ As a **Polymath Developer**, I don't just write code; I build **complete ecosyst
   
   <br><br>
 
-  <!-- Stats & Streak -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Im-prove&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+  <!-- Stats & Streak - PUBLIC VERSION (public repos only) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Im-prove&theme=tokyonight" alt="Stats" />
   
-  <br><br>
+  <br>
   
   <img src="https://streak-stats.demolab.com/?user=Im-prove&theme=tokyonight&ring=7DCFFF&fire=BB9AF7&currStreakLabel=7DCFFF" height="150" alt="Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Im-prove&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true" height="150" alt="Stats Summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Im-prove&theme=tokyonight" height="150" alt="Stats Summary" />
+
+  <br>
+
+  <!-- Top Languages -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Im-prove&theme=tokyonight" height="150" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Im-prove&theme=tokyonight" height="150" alt="Repos Per Language" />
 
 </div>
 
@@ -91,16 +99,8 @@ As a **Polymath Developer**, I don't just write code; I build **complete ecosyst
 
 ---
 
-### 📈 Language Stats
 
-<div align="center">
-  <!-- Top Languages - Showing ALL languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-prove&layout=compact&theme=tokyonight&langs_count=12&hide_border=true" height="180" alt="Most Used Languages" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-prove&layout=donut&theme=tokyonight&langs_count=8" height="180" alt="Language Distribution" />
-</div>
 
----
 
 ### 🐍 Contribution Graph
 
