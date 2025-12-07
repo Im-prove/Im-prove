@@ -7,7 +7,7 @@
   
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7DCFFF&vCenter=true&width=600&height=100&lines=Im-prove+Yourself+⚡;Bridging+Atoms+%26+Bits+⚛️;Architecting+Intelligence+🧠;Continuous+Evolution+📈&repeat=true&center=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7DCFFF&vCenter=true&width=600&height=100&lines=Im-prove+Yourself+%E2%9A%A1;Bridging+Atoms+%26+Bits+%E2%9A%9B%EF%B8%8F;Architecting+Intelligence+%F0%9F%A7%A0;Continuous+Evolution+%F0%9F%93%88&repeat=true&center=true" alt="Typing SVG" />
   </a>
 
   <!-- Wave Header -->
