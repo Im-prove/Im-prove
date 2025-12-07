@@ -51,55 +51,16 @@ As a **Polymath Developer**, I don't just write code; I build **complete ecosyst
   <br><br>
 
   <!-- Stats & Streak - PUBLIC VERSION (public repos only) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Im-prove&theme=tokyonight" alt="Stats" />
-  
-  <br>
-  
-  <img src="https://streak-stats.demolab.com/?user=Im-prove&theme=tokyonight&ring=7DCFFF&fire=BB9AF7&currStreakLabel=7DCFFF" height="150" alt="Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Im-prove&theme=tokyonight" height="150" alt="Stats Summary" />
-
-  <br>
-
-  <!-- Top Languages -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Im-prove&theme=tokyonight" height="150" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Im-prove&theme=tokyonight" height="150" alt="Repos Per Language" />
-
-</div>
-
----
-
-### 🧠 Tech Stack & Arsenal
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Im-prove&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B" alt="Im-prove Trophies" />
-  </a>
-  
-  <br><br>
-
-  <!-- Stats & Streak -->
-  <!-- 🎯 SELF-HOSTED (Vercel not publicly accessible) -->
-  <!-- <img src="https://github-readme-stats-20irtloge-im-proves-projects.vercel.app/api?username=Im-prove&show_icons=true&count_private=true&theme=tokyonight" alt="Stats" /> -->
-  
-  <!-- 📦 PUBLIC (Working NOW) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Im-prove&show_icons=true&theme=tokyonight" alt="Stats" />
   
   <br>
   
-  <!-- 🎯 SELF-HOSTED Streak - 404 ERROR, using public backup -->
-  <!-- <img src="https://github-readme-streak-stats-4noum7u36-im-proves-projects.vercel.app/?user=Im-prove&theme=tokyonight&ring=7DCFFF&fire=BB9AF7&currStreakLabel=7DCFFF" height="150" alt="Streak" /> -->
-  
-  <!-- 📦 PUBLIC Streak - Active (self-hosted has 404) -->
   <img src="https://streak-stats.demolab.com/?user=Im-prove&theme=tokyonight&ring=7DCFFF&fire=BB9AF7&currStreakLabel=7DCFFF" height="150" alt="Streak" />
-  
-  <!-- Stats summary card -->
   <img src="https://github-readme-stats.vercel.app/api?username=Im-prove&show_icons=true&theme=tokyonight&hide_title=true&hide_rank=true" height="150" alt="Stats Summary" />
 
   <br>
 
   <!-- Top Languages -->
-  <!-- 🎯 SELF-HOSTED (Not accessible) -->
-  <!-- <img src="https://github-readme-stats-20irtloge-im-proves-projects.vercel.app/api/top-langs/?username=Im-prove&layout=compact&theme=tokyonight&langs_count=8&count_private=true" height="150" alt="Top Languages" /> -->
-  
-  <!-- 📦 PUBLIC (Working NOW) -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-prove&layout=compact&theme=tokyonight&langs_count=8" height="150" alt="Top Languages" />
 
 </div>
