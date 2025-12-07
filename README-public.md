@@ -50,33 +50,19 @@ As a **Polymath Developer**, I don't just write code; I build **complete ecosyst
   
   <br><br>
 
-  <!-- Stats & Streak -->
-  <!-- 🎯 SELF-HOSTED (includes private repos) - ACTIVE -->
-  <img src="https://github-readme-stats-20irtloge-im-proves-projects.vercel.app/api?username=Im-prove&show_icons=true&count_private=true&theme=tokyonight" alt="Stats" />
-  
-  <!-- 📦 BACKUP (public repos only) - Disabled, uncomment if needed -->
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Im-prove&theme=tokyonight" alt="Stats" /> -->
+  <!-- Stats & Streak - PUBLIC VERSION (public repos only) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Im-prove&theme=tokyonight" alt="Stats" />
   
   <br>
   
-  <!-- 🎯 SELF-HOSTED Streak - ACTIVE -->
-  <img src="https://github-readme-streak-stats-4noum7u36-im-proves-projects.vercel.app/?user=Im-prove&theme=tokyonight&ring=7DCFFF&fire=BB9AF7&currStreakLabel=7DCFFF" height="150" alt="Streak" />
-  
-  <!-- 📦 BACKUP Streak - Disabled -->
-  <!-- <img src="https://streak-stats.demolab.com/?user=Im-prove&theme=tokyonight&ring=7DCFFF&fire=BB9AF7&currStreakLabel=7DCFFF" height="150" alt="Streak" /> -->
-  
-  <!-- Stats summary card (using self-hosted) -->
-  <img src="https://github-readme-stats-20irtloge-im-proves-projects.vercel.app/api?username=Im-prove&show_icons=true&count_private=true&theme=tokyonight&hide_title=true&hide_rank=true" height="150" alt="Stats Summary" />
+  <img src="https://streak-stats.demolab.com/?user=Im-prove&theme=tokyonight&ring=7DCFFF&fire=BB9AF7&currStreakLabel=7DCFFF" height="150" alt="Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Im-prove&theme=tokyonight" height="150" alt="Stats Summary" />
 
   <br>
 
   <!-- Top Languages -->
-  <!-- 🎯 SELF-HOSTED - ACTIVE -->
-  <img src="https://github-readme-stats-20irtloge-im-proves-projects.vercel.app/api/top-langs/?username=Im-prove&layout=compact&theme=tokyonight&langs_count=8&count_private=true" height="150" alt="Top Languages" />
-  
-  <!-- 📦 BACKUP - Disabled -->
-  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Im-prove&theme=tokyonight" height="150" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Im-prove&theme=tokyonight" height="150" alt="Repos Per Language" /> -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Im-prove&theme=tokyonight" height="150" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Im-prove&theme=tokyonight" height="150" alt="Repos Per Language" />
 
 </div>
 

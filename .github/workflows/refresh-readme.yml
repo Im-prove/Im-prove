@@ -1,0 +1,38 @@
+name: Refresh README (daily)
+on:
+  schedule:
+    - cron: '0 0 * * *' # daily at 00:00 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Refresh README timestamp
+        run: |
+          TIMESTAMP="Last updated: $(date -u +"%Y-%m-%d %H:%M:%S UTC")"
+          # Replace or append timestamp line in README.md
+          if grep -q '^Last updated:' README.md; then
+            sed -i "s/^Last updated:.*/$TIMESTAMP/" README.md
+          else
+            echo "" >> README.md
+            echo "$TIMESTAMP" >> README.md
+          fi
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md || true
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: refresh README timestamp [skip ci]" || true
+            git push
+          else
+            echo "No changes to commit"
+          fi
