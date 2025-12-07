@@ -7,7 +7,7 @@
   
   <!-- Dynamic Typing Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7DCFFF&vCenter=true&width=600&height=100&lines=Im-prove+Yourself+⚡;Bridging+Atoms+%26+Bits+⚛️;Architecting+Intelligence+🧠;Continuous+Evolution+📈&repeat=true&center=true" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&duration=3000&pause=1000&color=7DCFFF&vCenter=true&width=600&height=100&lines=Im-prove+Yourself+%E2%9A%A1;Bridging+Atoms+%26+Bits+%E2%9A%9B%EF%B8%8F;Architecting+Intelligence+%F0%9F%A7%A0;Continuous+Evolution+%F0%9F%93%88&repeat=true&center=true" alt="Typing SVG" />
   </a>
 
   <!-- Wave Header -->
@@ -99,49 +99,7 @@ As a **Polymath Developer**, I don't just write code; I build **complete ecosyst
 
 ---
 
-### 📊 System Analysis & Performance Metrics
 
-<div align="center">
-
-*Visualizing the architecture and efficiency of deployed systems.*
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'darkMode': true }}}%%
-classDiagram
-    class Hardware_Layer {
-        +Sensors (LiDAR/Camera)
-        +Actuators (Motors/Arm)
-        +Microcontroller (ESP32/Arduino)
-    }
-    class Compute_Layer {
-        +Main_PC (ROS 2 Node)
-        +AI_Model (YOLO/SLAM)
-        +Decision_Logic (Path Planning)
-    }
-    class Cloud_Interface {
-        +User_Dashboard (Web/App)
-        +Database (Logs/Metrics)
-        +Remote_Control
-    }
-    Hardware_Layer --|> Compute_Layer : Raw Data Stream 🔌
-    Compute_Layer --|> Hardware_Layer : Control Signals ⚡
-    Compute_Layer ..> Cloud_Interface : Telemetry 📡
-```
-
-```mermaid
-%%{init: {'theme': 'dark', 'themeVariables': { 'darkMode': true }}}%%
-gantt
-    title Project Timeline & Milestones
-    dateFormat  YYYY-MM-DD
-    section Robotics
-    R2 (Robocon)        :done,    des1, 2023-01-01, 2023-06-01
-    Logistics Cobot     :active,  des2, 2024-01-01, 2024-05-01
-    section AI & IoT
-    Aqua Sense (SIH)    :done,    des3, 2023-08-01, 2023-10-01
-    Im-prove (GenAI)    :active,  des4, 2024-06-01, 2024-12-01
-```
-
-</div>
 
 ---
 
