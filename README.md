@@ -50,7 +50,7 @@ As a **Polymath Developer**, I don't just write code; I build **complete ecosyst
   
   <br><br>
 
-  <!-- Stats & Streak - PUBLIC VERSION (public repos only) -->
+  <!-- Stats & Streak -->
   <img src="https://github-readme-stats.vercel.app/api?username=Im-prove&show_icons=true&theme=tokyonight" alt="Stats" />
   
   <br>
