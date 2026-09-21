@@ -1,6 +1,6 @@
 # Im-prove
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=A78BFA&center=false&vCenter=true&width=760&lines=Building+intelligent+systems.;Connecting+AI%2C+hardware%2C+and+software.;Learning+continuously.+Improving+deliberately.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=A78BFA&vCenter=true&width=760&lines=Building+intelligent+systems.;Connecting+AI%2C+hardware%2C+and+software.;Learning+continuously.+Improving+deliberately.)](https://git.io/typing-svg)
 
 ### AI / ML • Robotics • Embedded Systems • Software Engineering
 
@@ -99,8 +99,6 @@ A repository connected to internship-driven software work and applied developmen
 
 ## Robotics and systems portfolio
 
-The broader engineering direction behind my work includes projects and experiments around:
-
 | Theme | Exploration |
 | --- | --- |
 | **Autonomous robotics** | navigation, path planning, sensing, and field-oriented robot behavior |
@@ -127,7 +125,7 @@ The broader engineering direction behind my work includes projects and experimen
 
 ## GitHub activity
 
-The widgets below use established public endpoints with a consistent midnight-indigo palette. If one service is temporarily unavailable, the rest of the profile remains fully readable.
+The cards below use established public endpoints with a consistent midnight-indigo palette. Stats may represent public activity only, while private repositories are not visible to external widgets.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Im-prove&show_icons=true&hide_border=true&hide_title=true&theme=tokyonight&icon_color=A78BFA&title_color=E9D5FF&text_color=C7D2FE&bg_color=0F172A&cache_seconds=86400)
 
@@ -139,7 +137,17 @@ The widgets below use established public endpoints with a consistent midnight-in
 
 ![GitHub trophies](https://github-profile-trophy.vercel.app/?username=Im-prove&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6)
 
-![Contribution snake](https://raw.githubusercontent.com/Im-prove/Im-prove/output/github-contribution-grid-snake-dark.svg)
+### Activity graph
+
+![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Im-prove&bg_color=0F172A&color=C7D2FE&line=A78BFA&point=F59E0B&area=true&hide_border=true&custom_title=Contribution%20activity)
+
+> The activity graph is used as a reliable visual fallback for the contribution snake. The snake requires a GitHub Actions workflow to generate an `output` branch; without that workflow, its image URL returns 404.
+
+## A small companion 🐈
+
+![Cute coding cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
+
+*Even the smallest loop deserves a little personality.*
 
 ## What I bring
 
