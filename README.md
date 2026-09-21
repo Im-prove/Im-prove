@@ -143,12 +143,6 @@ The cards below use established public endpoints with a consistent midnight-indi
 
 > The activity graph is used as a reliable visual fallback for the contribution snake. The snake requires a GitHub Actions workflow to generate an `output` branch; without that workflow, its image URL returns 404.
 
-## A small companion 🐈
-
-![Cute coding cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
-
-*Even the smallest loop deserves a little personality.*
-
 ## What I bring
 
 - A broad technical base across AI, software, robotics, and embedded systems
