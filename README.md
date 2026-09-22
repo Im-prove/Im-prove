@@ -180,3 +180,5 @@ I care about thoughtful engineering, readable systems, and learning across disci
 ![Footer wave](https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:312e81,100:0f172a&height=100&section=footer&text=Keep%20building.%20Keep%20improving.&fontColor=E9D5FF&fontSize=18&animation=fadeIn)
 
 <sub>Minimal structure. Calm motion. Serious engineering.</sub>
+
+Last updated: 2026-09-22 03:43:41 UTC
