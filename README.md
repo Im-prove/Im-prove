@@ -181,4 +181,4 @@ I care about thoughtful engineering, readable systems, and learning across disci
 
 <sub>Minimal structure. Calm motion. Serious engineering.</sub>
 
-Last updated: 2026-11-04 05:11:08 UTC
+Last updated: 2026-11-05 05:31:33 UTC
